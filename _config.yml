@@ -33,13 +33,13 @@ author: "AEP"
 title: "{ Aprima Eka Putra }"
 description: "Blog and website of Aprima Eka Putra, blogging mainly for tech. feel free to ask things about."
 keywords: "prima, putra, personal,"
-favicon: "/img/invoker_icon.png"
+favicon: "/img/invoker.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/invoker_icon.png"
+black-favicon: "/img/invoker.ico"
 
 background-img: "../img/opera.jpg"
 
