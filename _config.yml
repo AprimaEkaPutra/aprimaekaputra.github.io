@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "When everything not right, go to the left."
-  - text: "Where’s your will to be weird?"
+  - text: "Your soul's is mine"
 
 me-img: "/img/aep.jpg"
 
