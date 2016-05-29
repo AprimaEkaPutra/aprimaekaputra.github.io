@@ -110,8 +110,8 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "april 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "april 2015 - Today"
+    description: "Defence of the ancient"
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2012 - today"
     description: "Started studied at State Islamic University of Sultan Syarif Kasim Riau"
