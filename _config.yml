@@ -109,7 +109,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/dota2.png"
     date: "april 2015 - Today"
     description: "Defence of the ancient"
   - image: "/img/timeline/baracktocat.jpg"
