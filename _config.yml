@@ -38,7 +38,7 @@ favicon: "/img/Steam.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/Steam.ico"
+black-favicon: ""
 
 background-img: "../img/opera.jpg"
 
