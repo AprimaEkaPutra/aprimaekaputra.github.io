@@ -55,7 +55,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "When everything not right, go to the left."
-  - text: "Your soul's is mine"
+  - text: "Do whatever you like"
 
 me-img: "/img/aep.jpg"
 
@@ -133,7 +133,7 @@ email: "primaeputra@yahoo.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Aprima Eka Putra is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Aprima Eka Putra is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, Prima likes to eat cotton candy."
 author_blurb_image: "/img/author.png"
 
 ##################
