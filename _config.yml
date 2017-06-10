@@ -54,8 +54,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "When everything not right, go to the left."
-  - text: "Do whatever you like"
+  - text: "Information System"
+  - text: "Faculty of Sains and Technology"
 
 me-img: "/img/aep.jpg"
 
